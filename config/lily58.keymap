@@ -45,7 +45,7 @@
 &kp BACKSLASH  &kp UNDERSCORE  &kp AT_SIGN     &kp HASH        &kp LESS_THAN     &kp PERCENT                         &kp KP_DIVIDE    &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS  &trans
 &kp EXCL       &kp TILDE       &kp SLASH       &kp UP_ARROW    &kp GREATER_THAN  &kp DOLLAR                          &kp KP_EQUAL     &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_PLUS   &trans
 &kp QUESTION   &kp GRAVE       &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT         &kp SEMI                            &kp KP_MULTIPLY  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp RET       &trans
-&kp CARET      &kp COLON       &kp AMPERSAND   &kp PIPE        &kp LPAR          &kp RPAR     &kp LBKT    &kp RBKT   &kp KP_CLEAR     &kp KP_NUMBER_0  &kp KP_NUMBER_0  &kp KP_DOT       &kp RET       &trans
+&kp CARET      &kp COLON       &kp AMPERSAND   &kp PIPE        &kp LPAR          &kp RPAR     &kp LBKT    &kp RBKT   &kp KP_CLEAR     &kp KP_NUMBER_0  &kp KP_NUMBER_0  &kp KP_DOT       &kp RET       &kp KP_NUMLOCK
                                                &bt BT_CLR      &trans            &trans       &trans      &kp SPACE  &bt BT_SEL 0     &bt BT_SEL 1     &bt BT_SEL 2
             >;
 
